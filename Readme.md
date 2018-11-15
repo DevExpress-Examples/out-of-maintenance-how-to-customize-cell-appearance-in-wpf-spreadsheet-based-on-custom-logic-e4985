@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CellTemplateSelectorExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/CellTemplateSelectorExample/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/CellTemplateSelectorExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CellTemplateSelectorExample/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to customize cell appearance in WPF Spreadsheet based on custom logic
 
 
